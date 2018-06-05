@@ -1,0 +1,2 @@
+# easy.Fund
+easyFund
